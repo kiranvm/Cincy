@@ -1,0 +1,61 @@
+{
+  "name": "Cincy",
+  "padlock": "oZLUUyzRwQaEiw/uHaAa3w==!yuhWBnzhEf0GYru7fL8G//1187zYU4Crzu/TSAiB8fuicbaSGw65EWbEzBAJuYjs",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "f5222e6c-5fc6-48eb-8f03-73db18203b63",
+      "subscriptionId": "0971ded3-f036-4063-88ea-f0f15084d596",
+      "resourceGroup": "Global",
+      "serviceName": "Cincy",
+      "type": "abs",
+      "name": "Cincy",
+      "id": "1"
+    },
+    {
+      "connectionString": "Doy/y+3N+m2oAhzqRXC8/g==!1QR5zA5OpIMO3xwlq1nZ6TdT0vlCfF9I7rAkE21DHENDUB08C4yMihmXpbY3IU/wkPP/8uVGZsHGzn7BNWatUakmnLYT7dhO2tVwu5LdeuTDF2yf965Zh/B3GaqUSBCCEC7HiTcJNRU2djlc4lOkfbcqClDRhw6SIKXY8yVRbRdLK8q1fzvAWUQVFxcvZ/rRr08MWRIuv/DoSGySAbV92A==",
+      "tenantId": "f5222e6c-5fc6-48eb-8f03-73db18203b63",
+      "subscriptionId": "0971ded3-f036-4063-88ea-f0f15084d596",
+      "resourceGroup": "Global",
+      "serviceName": "cincyb0d9",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "c3d72b94-84d6-4e87-b61b-3aaad275bb29",
+      "appPassword": "AE1Zt29srct9ON08ybZSrQ==!Z17XqF+Y1hS+ib2DFWhlrKT/8cpPsy8xjE/VKKlknMs=",
+      "endpoint": "https://cincy.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "3ZMXIoGp4KkAs072UcQdMA==!uBbtz74NW8qc4QTZWoMcXQYWe1oJiQ+NrBIlUon+2AGOCR/HTBDguu7j+ZC3C7LQ",
+      "applicationId": "e68f5d7e-248b-45f5-86c1-f1d3ac0eb899",
+      "apiKeys": {},
+      "tenantId": "f5222e6c-5fc6-48eb-8f03-73db18203b63",
+      "subscriptionId": "0971ded3-f036-4063-88ea-f0f15084d596",
+      "resourceGroup": "Global",
+      "serviceName": "Cincyaxifsf",
+      "type": "appInsights",
+      "id": "5"
+    },
+    {
+      "appId": "fccd1fe7-6792-43fb-b8dd-ce99ef2735cb",
+      "authoringKey": "5VxKG3/54Mxnf0RbFqi8kw==!7ivFw/C1ZlTaliRGHnjywZbZ4v2TzoEESVcvZhUyqK3ab2YFlJ/59hjAau8hdNfD",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "BasicBotLuisApplication",
+      "id": "6"
+    }
+  ]
+}
